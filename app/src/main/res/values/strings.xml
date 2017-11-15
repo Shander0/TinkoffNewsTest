@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TinkoffNewsTest</string>
+    <string name="no_internet">Отсутствует соединение с интернетом. Перейдите в настройки для включения.</string>
+    <string name="settings">Настройки</string>
+</resources>
