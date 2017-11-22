@@ -8,6 +8,7 @@ import shander.tinkoffnewstest.interfaces.IContract;
 
 public class App extends Application implements IContract{
 
+
     private DBHelper helper;
 
     public static App from(Context context) {
